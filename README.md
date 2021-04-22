@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there my name is Pedro Henrique👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-silva-santos-3709b51ba/)](https://www.linkedin.com/in/pedro-henrique-silva-santos-3709b51ba/)
 
 <!--
 **pedroHen14/pedroHen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
