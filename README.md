@@ -3,22 +3,36 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroHen14)](https://github.com/pedroHen14)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-silva-santos-3709b51ba/)](https://www.linkedin.com/in/pedro-henrique-silva-santos-3709b51ba/)
 
-##
-![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/%E2%80%8E-ReactJS-61DAFB?logo=React&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, meu nome é [Pedro Henrique](https://github.com/pedroHen14)!
 
 ## - 😄 Algumas curiosidades sobre mim: 
 
-- 💻 Estou trabalhando atualmente na Primi Tecnologia
-- 📚 Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira
-- 🚀 Estou desenvolvendo um sistema de gerenciamento comercial para o meu TCC
+- Estou trabalhando atualmente na Primi Tecnologia;
+- Finalizei o curso de técnico em Desenvolvimento de Sistemas no Senai - Jandira;
+- Estou cursando Técnico em Desenvolvimento Web Full-Stack no Senai - Jandira;
+- Em meu projeto de TCC eu e meu grupo criamos um Sistema de gerenciamento comercial;
+- Sou apaixonado pela área de programação em geral, porém no momento focado em desenvolvimento Web e Mobile.
 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedroHen14&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHen14&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hard Skills💻
+
+<div width="100%">
+<img src="https://img.shields.io/badge/-Node-30D84a?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/solrachix"/>
+<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/solrachix"/>
+<img src="https://img.shields.io/badge/-React Native-912CEE?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/solrachix"/>
+</div>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a><a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+
+### Arquiteturas, padrões e metodologias de projetos
+
+- DDD: Domain Driven Design
+- TDD:  Test Driven Development
+- SOLID: Principles of Object-Oriented Programming
+- Design Patterns: Factories, Adapters, Dependency Injection
+- Git Flow: Code versioning control
