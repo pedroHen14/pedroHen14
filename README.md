@@ -7,10 +7,10 @@
 
 ## - 😄 Algumas curiosidades sobre mim: 
 
-- Estou trabalhando atualmente na Primi Tecnologia;
+- Estou trabalhando atualmente como Desenvolvedor Mobile/Frontend no Senai/SC Soluções Digitais;
 - Finalizei o curso de técnico em Desenvolvimento de Sistemas no Senai - Jandira;
-- Estou cursando Técnico em Desenvolvimento Web Full-Stack no Senai - Jandira;
-- Em meu projeto de TCC eu e meu grupo criamos um Sistema de gerenciamento comercial;
+- Estou cursando Ánalise e Desenvolvimento de Sistemas - Faculdade Impacta;
+- Em meu projeto de TCC eu e meu grupo criamos um Sistema de gerenciamento comercial com diferenciais de ter um CMS interno com o intuito de fornecer ao cliente o seu próprio site personalizado;
 - Sou apaixonado pela área de programação em geral, porém no momento focado em desenvolvimento Web e Mobile.
 
 ## GITHUB
