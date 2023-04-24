@@ -7,7 +7,7 @@ Olá, meu nome é [Pedro Henrique](https://github.com/pedroHen14)!
 
 ## - 😄 Algumas curiosidades sobre mim: 
 
-- Estou trabalhando atualmente como Desenvolvedor Mobile/Frontend no Senai/SC Soluções Digitais;
+- Estou trabalhando atualmente como Desenvolvedor Mobile/Frontend Núcleo de Tecnologia - Senai Jandira;
 - Finalizei o curso de técnico em Desenvolvimento de Sistemas no Senai - Jandira;
 - Estou cursando Ánalise e Desenvolvimento de Sistemas - Faculdade Impacta;
 - Em meu projeto de TCC eu e meu grupo criamos um Sistema de gerenciamento comercial com diferenciais de ter um CMS interno com o intuito de fornecer ao cliente o seu próprio site personalizado;
