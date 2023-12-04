@@ -9,7 +9,7 @@ Olá, meu nome é [Pedro Henrique](https://github.com/pedroHen14)!
 
 - Estou trabalhando atualmente como Desenvolvedor Mobile/Frontend Núcleo de Tecnologia - Senai Jandira;
 - Finalizei o curso de técnico em Desenvolvimento de Sistemas no Senai - Jandira;
-- Estou cursando Ánalise e Desenvolvimento de Sistemas - Faculdade Impacta;
+- Estou cursando Ánalise e Desenvolvimento de Sistemas - Estácio;
 - Em meu projeto de TCC eu e meu grupo criamos um Sistema de gerenciamento comercial com diferenciais de ter um CMS interno com o intuito de fornecer ao cliente o seu próprio site personalizado;
 - Sou apaixonado pela área de programação em geral, porém no momento focado em desenvolvimento Web e Mobile.
 
@@ -36,3 +36,7 @@ Olá, meu nome é [Pedro Henrique](https://github.com/pedroHen14)!
 - SOLID: Principles of Object-Oriented Programming
 - Design Patterns: Factories, Adapters, Dependency Injection
 - Git Flow: Code versioning control
+- Offline First
+- Atomic Design
+- Clean Architecture
+- Mobile First
